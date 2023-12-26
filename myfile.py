@@ -1,2 +1,1 @@
-Print("Hello World")
-print("How is your day")
+print("Hello World")
